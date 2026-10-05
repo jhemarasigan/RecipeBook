@@ -1,0 +1,260 @@
+{
+  "recipes": [
+    {
+      "id": 1, "title": "Classic Margherita Pizza", "emoji": "🍕",
+      "description": "Blistered crust, bright tomato sauce and creamy mozzarella — the Neapolitan classic.",
+      "servings": 4,
+      "ingredients": [
+        {"name": "pizza dough", "amount": 500, "unit": "g"},
+        {"name": "crushed tomatoes", "amount": 400, "unit": "g"},
+        {"name": "fresh mozzarella", "amount": 250, "unit": "g"},
+        {"name": "fresh basil leaves", "amount": 1, "unit": "handful"},
+        {"name": "olive oil", "amount": 2, "unit": "tbsp"},
+        {"name": "salt", "amount": 1, "unit": "tsp"}
+      ],
+      "instructions": [
+        "Preheat the oven to 250°C (480°F) with a baking tray inside.",
+        "Stretch the dough into two thin rounds on parchment paper.",
+        "Spread crushed tomatoes over the dough, season with salt and drizzle with olive oil.",
+        "Slide onto the hot tray and bake for 8–10 minutes until the crust is blistered.",
+        "Top with torn mozzarella and basil, then bake 1 more minute."
+      ],
+      "dietary_attributes": ["vegetarian", "nut-free"]
+    },
+    {
+      "id": 2, "title": "Chicken Adobo", "emoji": "🍗",
+      "description": "Filipino braised chicken in a tangy, garlicky soy-vinegar sauce.",
+      "servings": 4,
+      "ingredients": [
+        {"name": "chicken thighs", "amount": 1000, "unit": "g"},
+        {"name": "soy sauce", "amount": 120, "unit": "ml"},
+        {"name": "white vinegar", "amount": 120, "unit": "ml"},
+        {"name": "garlic cloves", "amount": 8},
+        {"name": "bay leaves", "amount": 3},
+        {"name": "black peppercorns", "amount": 1, "unit": "tsp"},
+        {"name": "vegetable oil", "amount": 1, "unit": "tbsp"}
+      ],
+      "instructions": [
+        "Marinate the chicken in soy sauce and crushed garlic for 30 minutes.",
+        "Sear the chicken in oil until browned on both sides.",
+        "Add the marinade, vinegar, bay leaves and peppercorns.",
+        "Simmer uncovered for 35 minutes until the sauce reduces and thickens.",
+        "Serve with steamed rice."
+      ],
+      "dietary_attributes": ["dairy-free", "nut-free"]
+    },
+    {
+      "id": 3, "title": "Vegan Chickpea Curry", "emoji": "🍛",
+      "description": "A weeknight coconut curry with chickpeas and wilted spinach.",
+      "servings": 4,
+      "ingredients": [
+        {"name": "canned chickpeas", "amount": 800, "unit": "g"},
+        {"name": "coconut milk", "amount": 400, "unit": "ml"},
+        {"name": "onion", "amount": 1},
+        {"name": "garlic cloves", "amount": 3},
+        {"name": "fresh ginger", "amount": 1, "unit": "tbsp"},
+        {"name": "curry powder", "amount": 2, "unit": "tbsp"},
+        {"name": "baby spinach", "amount": 150, "unit": "g"}
+      ],
+      "instructions": [
+        "Sauté the diced onion until soft, about 5 minutes.",
+        "Add garlic, ginger and curry powder and stir for 1 minute.",
+        "Add chickpeas and coconut milk, then simmer for 20 minutes.",
+        "Stir in the spinach until wilted and serve with rice or flatbread."
+      ],
+      "dietary_attributes": ["vegan", "gluten-free", "dairy-free", "nut-free"]
+    },
+    {
+      "id": 4, "title": "Spaghetti Carbonara", "emoji": "🍝",
+      "description": "Silky egg-and-pecorino sauce, crisp guanciale and plenty of black pepper.",
+      "servings": 2,
+      "ingredients": [
+        {"name": "spaghetti", "amount": 200, "unit": "g"},
+        {"name": "guanciale", "amount": 100, "unit": "g"},
+        {"name": "eggs", "amount": 2},
+        {"name": "pecorino romano", "amount": 50, "unit": "g"},
+        {"name": "black pepper", "amount": 1, "unit": "tsp"}
+      ],
+      "instructions": [
+        "Boil the spaghetti in well-salted water until al dente.",
+        "Render the guanciale in a pan until crisp, then turn off the heat.",
+        "Whisk the eggs with grated pecorino and pepper.",
+        "Toss the hot pasta with the guanciale, then stir in the egg mixture with a splash of pasta water until creamy."
+      ],
+      "dietary_attributes": ["nut-free"]
+    },
+    {
+      "id": 5, "title": "Greek Salad", "emoji": "🥗",
+      "description": "Crunchy cucumber, ripe tomato, olives and a slab of feta.",
+      "servings": 2,
+      "ingredients": [
+        {"name": "cucumber", "amount": 1},
+        {"name": "tomatoes", "amount": 4},
+        {"name": "red onion", "amount": 0.5},
+        {"name": "kalamata olives", "amount": 100, "unit": "g"},
+        {"name": "feta cheese", "amount": 150, "unit": "g"},
+        {"name": "olive oil", "amount": 3, "unit": "tbsp"},
+        {"name": "dried oregano", "amount": 1, "unit": "tsp"}
+      ],
+      "instructions": [
+        "Chop the cucumber, tomatoes and onion into chunky pieces.",
+        "Combine with olives in a wide bowl.",
+        "Place the feta on top and drizzle with olive oil.",
+        "Sprinkle with oregano and serve immediately."
+      ],
+      "dietary_attributes": ["vegetarian", "gluten-free", "nut-free"]
+    },
+    {
+      "id": 6, "title": "Banana Pancakes", "emoji": "🥞",
+      "description": "Fluffy pancakes sweetened only by ripe bananas.",
+      "servings": 4,
+      "ingredients": [
+        {"name": "ripe bananas", "amount": 2},
+        {"name": "eggs", "amount": 2},
+        {"name": "all-purpose flour", "amount": 150, "unit": "g"},
+        {"name": "milk", "amount": 200, "unit": "ml"},
+        {"name": "baking powder", "amount": 2, "unit": "tsp"},
+        {"name": "butter", "amount": 1, "unit": "tbsp"}
+      ],
+      "instructions": [
+        "Mash the bananas until smooth.",
+        "Whisk in the eggs and milk.",
+        "Fold in the flour and baking powder until just combined.",
+        "Cook ladlefuls in a buttered pan until bubbles form, then flip and cook 1 more minute."
+      ],
+      "dietary_attributes": ["vegetarian", "nut-free"]
+    },
+    {
+      "id": 7, "title": "Beef Tacos", "emoji": "🌮",
+      "description": "Seasoned ground beef on warm corn tortillas with fresh toppings.",
+      "servings": 6,
+      "ingredients": [
+        {"name": "ground beef", "amount": 500, "unit": "g"},
+        {"name": "taco seasoning", "amount": 2, "unit": "tbsp"},
+        {"name": "corn tortillas", "amount": 12},
+        {"name": "shredded lettuce", "amount": 100, "unit": "g"},
+        {"name": "tomatoes", "amount": 2},
+        {"name": "cheddar cheese", "amount": 100, "unit": "g"},
+        {"name": "lime", "amount": 1}
+      ],
+      "instructions": [
+        "Brown the beef in a skillet, breaking it up as it cooks.",
+        "Stir in the seasoning and 60 ml of water; simmer for 5 minutes.",
+        "Warm the tortillas on a dry pan until pliable.",
+        "Fill with beef and top with lettuce, tomato and cheese. Serve with lime."
+      ],
+      "dietary_attributes": ["gluten-free", "nut-free"]
+    },
+    {
+      "id": 8, "title": "Mushroom Risotto", "emoji": "🍄",
+      "description": "Creamy arborio rice with browned mushrooms and parmesan.",
+      "servings": 4,
+      "ingredients": [
+        {"name": "arborio rice", "amount": 300, "unit": "g"},
+        {"name": "mushrooms", "amount": 400, "unit": "g"},
+        {"name": "vegetable stock", "amount": 1000, "unit": "ml"},
+        {"name": "onion", "amount": 1},
+        {"name": "dry white wine", "amount": 120, "unit": "ml"},
+        {"name": "parmesan", "amount": 60, "unit": "g"},
+        {"name": "butter", "amount": 2, "unit": "tbsp"}
+      ],
+      "instructions": [
+        "Sauté the mushrooms until golden, then set aside.",
+        "Soften the diced onion in butter, add the rice and toast for 2 minutes.",
+        "Pour in the wine and stir until absorbed.",
+        "Add hot stock one ladle at a time, stirring, for about 18 minutes.",
+        "Fold in the mushrooms, remaining butter and parmesan."
+      ],
+      "dietary_attributes": ["vegetarian", "gluten-free", "nut-free"]
+    },
+    {
+      "id": 9, "title": "Lemon Dill Salmon", "emoji": "🐟",
+      "description": "Oven-baked salmon fillets with garlic, lemon and fresh dill.",
+      "servings": 2,
+      "ingredients": [
+        {"name": "salmon fillets", "amount": 2},
+        {"name": "lemon", "amount": 1},
+        {"name": "fresh dill", "amount": 2, "unit": "tbsp"},
+        {"name": "olive oil", "amount": 1, "unit": "tbsp"},
+        {"name": "garlic cloves", "amount": 2},
+        {"name": "salt", "amount": 0.5, "unit": "tsp"}
+      ],
+      "instructions": [
+        "Heat the oven to 200°C (400°F) and line a tray with parchment.",
+        "Rub the salmon with olive oil, minced garlic and salt.",
+        "Top with lemon slices and dill.",
+        "Bake for 12–15 minutes until the fish flakes easily."
+      ],
+      "dietary_attributes": ["gluten-free", "dairy-free", "nut-free"]
+    },
+    {
+      "id": 10, "title": "Shrimp Pad Thai", "emoji": "🍜",
+      "description": "Stir-fried rice noodles with shrimp, tamarind sauce and crushed peanuts.",
+      "servings": 2,
+      "ingredients": [
+        {"name": "rice noodles", "amount": 200, "unit": "g"},
+        {"name": "shrimp", "amount": 200, "unit": "g"},
+        {"name": "eggs", "amount": 2},
+        {"name": "bean sprouts", "amount": 100, "unit": "g"},
+        {"name": "roasted peanuts", "amount": 40, "unit": "g"},
+        {"name": "tamarind paste", "amount": 2, "unit": "tbsp"},
+        {"name": "fish sauce", "amount": 2, "unit": "tbsp"},
+        {"name": "vegetable oil", "amount": 2, "unit": "tbsp"}
+      ],
+      "instructions": [
+        "Soak the noodles in warm water for 20 minutes, then drain.",
+        "Mix the tamarind paste and fish sauce into a sauce.",
+        "Stir-fry the shrimp in hot oil, then push aside and scramble the eggs.",
+        "Add the noodles and sauce and toss until coated.",
+        "Serve topped with bean sprouts and crushed peanuts."
+      ],
+      "dietary_attributes": ["gluten-free", "dairy-free"]
+    },
+    {
+      "id": 11, "title": "Red Lentil Soup", "emoji": "🥣",
+      "description": "A warming, lemony lentil soup that comes together in 35 minutes.",
+      "servings": 6,
+      "ingredients": [
+        {"name": "red lentils", "amount": 300, "unit": "g"},
+        {"name": "carrots", "amount": 2},
+        {"name": "onion", "amount": 1},
+        {"name": "garlic cloves", "amount": 3},
+        {"name": "ground cumin", "amount": 2, "unit": "tsp"},
+        {"name": "vegetable stock", "amount": 1500, "unit": "ml"},
+        {"name": "lemon", "amount": 1},
+        {"name": "olive oil", "amount": 2, "unit": "tbsp"}
+      ],
+      "instructions": [
+        "Sauté the onion, carrots and garlic in olive oil for 8 minutes.",
+        "Stir in the cumin, then add the lentils and stock.",
+        "Simmer for 25 minutes until the lentils collapse.",
+        "Blend about half of the soup for a creamy texture and finish with lemon juice."
+      ],
+      "dietary_attributes": ["vegan", "gluten-free", "dairy-free", "nut-free"]
+    },
+    {
+      "id": 12, "title": "Chocolate Chip Cookies", "emoji": "🍪",
+      "description": "Crisp-edged, chewy-centred cookies loaded with chocolate.",
+      "servings": 12,
+      "ingredients": [
+        {"name": "butter", "amount": 225, "unit": "g"},
+        {"name": "brown sugar", "amount": 200, "unit": "g"},
+        {"name": "granulated sugar", "amount": 100, "unit": "g"},
+        {"name": "eggs", "amount": 2},
+        {"name": "vanilla extract", "amount": 2, "unit": "tsp"},
+        {"name": "all-purpose flour", "amount": 280, "unit": "g"},
+        {"name": "baking soda", "amount": 1, "unit": "tsp"},
+        {"name": "salt", "amount": 1, "unit": "tsp"},
+        {"name": "chocolate chips", "amount": 300, "unit": "g"}
+      ],
+      "instructions": [
+        "Preheat the oven to 180°C (350°F).",
+        "Cream the butter with both sugars until fluffy.",
+        "Beat in the eggs and vanilla.",
+        "Mix in the flour, baking soda and salt, then fold in the chocolate chips.",
+        "Scoop onto lined trays and bake for 10–12 minutes. Cool on the tray for 5 minutes."
+      ],
+      "dietary_attributes": ["vegetarian", "nut-free"]
+    }
+  ]
+}
